@@ -1,1 +1,1 @@
-# kafka-app
+# Apache Kafka for dummies
